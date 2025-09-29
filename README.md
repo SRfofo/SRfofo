@@ -18,17 +18,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="25" alt="discord logo"  />
-</div>
-
-###
-
 <h1 align="center">About Me</h1>
 
 ###
 
 <p align="center">🌐 Web Developer <br>🕹️ Game Developer<br>🤖 Bot Developer</p>
+
+###
+
+<div align="center">
+  <a href="https://discord.gg/PhBGUrDha4"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="25" alt="discord logo"  /> </a>
+</div>
 
 ###
 
