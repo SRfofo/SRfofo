@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">[Nuvexa](https://discord.gg/PhBGUrDha4)</p>
+<a href="[url](https://discord.gg/PhBGUrDha4)">Nuvexa</a>
 
 ###
 
