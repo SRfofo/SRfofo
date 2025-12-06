@@ -23,27 +23,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <a href="https://www.w3schools.com/css/"<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <a href="https://learn.microsoft.com/it-it/dotnet/csharp/tour-of-csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <a href="https://docs.unity.com/en-us"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=visualstudio"><img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <a href="https://docs.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /></a>
 </div>
 
 ###
