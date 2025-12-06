@@ -1,66 +1,59 @@
-
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
-</div>
-
-###
-
-<h1 align="center">About Me</h1>
-
-###
-
-<p align="center">🌐 Web Developer <br>🕹️ Game Developer<br>🤖 Bot Developer</p>
-
-###
-
-<div align="center">
-  <a href="https://discord.gg/PhBGUrDha4"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="25" alt="discord logo"  /> </a>
-</div>
-
-###
-
-<h1 align="center">Vorrei imparare...</h1>
-
-###
-
-<p align="center">📌 Blender<br>📌 Python<br>📌 TypeScript</p>
-
-###
-
-<h1 align="center">Progetti</h1>
-
-###
-
-<div align="center">
-<a href="https://discord.gg/PhBGUrDha4">Nuvexa</a>
+  <img height="150" src="https://cdn.pfps.gg/banners/85738-anime.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRfofo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Le%20Mie%20Statistiche" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SRfofo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
 </div>
 
 ###
 
+<h1 align="center">ABOUT ME</h1>
+
+###
+
+<p align="center">🇮🇹 Italy<br><br>- 🔭 Working on Nuvexa<br>- 📚 Learning Typescript & Python</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/lphckq1vnx77anpmadtlzorws">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lphckq1vnx77anpmadtlzorws&unique={true|1|on|yes}" alt="Spotify recently played" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=srfofo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
