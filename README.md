@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <img width="12" />
-  <a href="https://www.w3schools.com/css/"<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /></a>
   <img width="12" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /></a>
   <img width="12" />
