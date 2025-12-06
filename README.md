@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">🇮🇹 Italy<br><br>- 🔭 Working on Nuvexa<br>- 📚 Learning Typescript & Python</p>
+<p align="center">🇮🇹 Italy<br><br>- 🔭 Working on <a href = "https://github.com/Nuvexads/support">Nuvexa </a> <br>- 📚 Learning Typescript & Python</p>
 
 ###
 
